@@ -31,4 +31,4 @@ We reserve the right to modify or update these terms at any time without prior n
 These terms shall be governed by and interpreted in accordance with the laws of the jurisdiction in which ServerSeeker is operated, without giving effect to any principles of conflicts of law.
 
 Contact
-If you have any questions or concerns regarding these Terms or ServerSeeker, please contact us at contact@damcraft.de .
+If you have any questions or concerns regarding these Terms or ServerSeeker, please contact us at contact@serverseeker.net.
